@@ -171,7 +171,7 @@ const songs = [
   artist: "DAY6",
   mood: "기분좋음",
   file: "music/DANCE.mp3",
-  cover: "covers/DANCE.jpg"
+  cover: "covers/Dance.jpg"
 },
 
 
