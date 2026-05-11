@@ -104,7 +104,7 @@ const songs = [
   artist: "TWS",
   mood: "새벽감성",
   file: "music/fire.mp3",
-  cover: "covers/Fire.jpg"
+  cover: "covers/fire.jpg"
 },
 
 {
