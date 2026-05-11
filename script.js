@@ -100,6 +100,14 @@ const songs = [
 },
 
 {
+  title: "Fire Escape",
+  artist: "TWS",
+  mood: "새벽감성",
+  file: "music/fire.mp3",
+  cover: "covers/Fire.jpg"
+},
+
+{
   title: "한 페이지가 될 수 있게",
   artist: "DAY6",
   mood: "기분좋음",
@@ -192,11 +200,36 @@ const songs = [
 },
 
 {
+  title: "Why You So Bad?",
+  artist: "TWS",
+  mood: "드라이브",
+  file: "music/why.mp3",
+  cover: "covers/why.jpg"
+},
+
+{
   title: "한 페이지가 될 수 있게",
   artist: "DAY6",
   mood: "기분좋음",
   file: "music/Time.mp3",
   cover: "covers/Time.jpg"
+},
+
+
+{
+  title: "널 따라가",
+  artist: "TWS",
+  mood: "기분좋음",
+  file: "music/you.mp3",
+  cover: "covers/you.jpg"
+},
+
+{
+  title: "Get It Now",
+  artist: "TWS",
+  mood: "기분좋음",
+  file: "music/get.mp3",
+  cover: "covers/get.jpg"
 },
 
 {
@@ -255,12 +288,31 @@ const songs = [
   cover: "covers/Still.jpg"
 },
 
+
 {
-  title: "예뻤어",
+  title: "BACK TO STRANGERS",
+  artist: "DAY6",
+  mood: "우울",
+  file: "music/back.mp3",
+  cover: "covers/back.jpg"
+},
+
+{
+  title: "다화는 예뻤어",
   artist: "DAY6",
   mood: "다화",
   file: "music/DAY6_PRETTY.mp3",
   cover: "covers/DAY6_PRETTY.jpg"
+}
+
+,
+
+{
+  title: "다화의 모든 가능성이 되어줄게",
+  artist: "TWS",
+  mood: "다화",
+  file: "music/all.mp3",
+  cover: "covers/all.jpg"
 }
 
 ];
