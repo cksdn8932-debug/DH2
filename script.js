@@ -298,9 +298,9 @@ const songs = [
 },
 
 {
-  title: "다화는 예뻤어",
+  title: "예뻤어",
   artist: "DAY6",
-  mood: "다화",
+  mood: "you",
   file: "music/DAY6_PRETTY.mp3",
   cover: "covers/DAY6_PRETTY.jpg"
 }
@@ -308,9 +308,9 @@ const songs = [
 ,
 
 {
-  title: "다화의 모든 가능성이 되어줄게",
+  title: "너의 모든 가능성이 되어줄게",
   artist: "TWS",
-  mood: "다화",
+  mood: "you",
   file: "music/all.mp3",
   cover: "covers/all.jpg"
 }
